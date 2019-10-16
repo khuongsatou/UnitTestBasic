@@ -1,0 +1,5 @@
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo\bin\Debug\ProjectPhanSo.exe.config
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo\bin\Debug\ProjectPhanSo.exe
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo\bin\Debug\ProjectPhanSo.pdb
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo\obj\Debug\ProjectPhanSo.exe
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo\obj\Debug\ProjectPhanSo.pdb

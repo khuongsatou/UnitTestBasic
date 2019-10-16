@@ -1,0 +1,9 @@
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.Test.dll
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.Test.pdb
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\nunit.framework.dll
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.exe
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\ProjectPhanSo.pdb
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\bin\Debug\nunit.framework.xml
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.csprojResolveAssemblyReference.cache
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.dll
+D:\DemoNUnit\ProjectPhanSo\ProjectPhanSo.Test\obj\Debug\ProjectPhanSo.Test.pdb
